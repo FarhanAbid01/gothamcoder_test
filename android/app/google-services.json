@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854398465015",
+    "project_id": "gothamtest",
+    "storage_bucket": "gothamtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854398465015:android:b755225c61205f75b634f2",
+        "android_client_info": {
+          "package_name": "com.example.gotham_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHbOhH_jWmp11BYUOvu9tEWQgGoXrZKHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
